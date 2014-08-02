@@ -5813,7 +5813,7 @@ a.changecolor {
 				box-shadow: 0 10px 10px rgba(0,0,0,0);
 	}
 
-	300 {
+	750 {
 		padding-top: 0;
 		padding-bottom: 0;
 		-webkit-box-shadow: 0 10px 10px rgba(0,0,0,0.1);
@@ -5827,7 +5827,7 @@ a.changecolor {
 		max-height: 100px;
 	}
 
-	300 {
+	750 {
 		max-height: 40px;
 	}
 }
